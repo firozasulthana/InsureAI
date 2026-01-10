@@ -347,17 +347,20 @@ Branch: CSE – Data Science
 Institute: PVPSIT, Vijayawada  
 
 **Team Members**
-1. Anushka Dutta  
+1. Feroza Sultana
+   
+    Github Link: https://github.com/firozasulthana/InsureAI.git 
+
 2. Ananya Gupta
    
    Github link: https://github.com/A-N-A-N-Y-A-25/InsurAI-Project
     
-4. Manisha Mohanty
+3. Manisha Mohanty
    
     Github Link: https://github.com/manishamohanty290/InsurAI-Corporate-policy-automation-and-intelligence-systemss/tree/main/DBMS/DBMS
-5. Feroza Sultana
-   
-    Github Link: https://github.com/firozasulthana/InsureAI.git 
+4. Anushka Dutta  
+                Github link:https://github.com/ANU-JUI/InsurAI-Policy-Automation-system
+
 
 ---
 
