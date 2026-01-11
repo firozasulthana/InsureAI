@@ -357,7 +357,8 @@ Institute: PVPSIT, Vijayawada
     
 3. Manisha Mohanty
    
-    Github Link: https://github.com/manishamohanty290/InsurAI-Corporate-policy-automation-and-intelligence-systemss/tree/main/DBMS/DBMS
+    Github Link: https://github.com/manishamohanty290/InsurAI-Corporate-policy-automation-and-intelligence-systemss
+
 4. Anushka Dutta  
                 Github link:https://github.com/ANU-JUI/InsurAI-Policy-Automation-system
 
